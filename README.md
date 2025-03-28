@@ -7,7 +7,7 @@ Primary analysis on Human Gene TBK1 using python
 ### Nucleotides distribution:
 
 ```mermaid
-pie showdata
+pie showData
    title Nucleotides count in TBK1 gene
    "T" : 16442
    "A" : 15340
