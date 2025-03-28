@@ -8,11 +8,11 @@ Primary analysis on Human Gene TBK1 using python
 
 ```mermaid
 pie showdata
-   title  Nucleotides count in TBK1 gene
-    "T" : 16442
-    "A" : 15340
-    "G" : 10045
-    "C" : 9398
+   title Nucleotides count in TBK1 gene
+   "T" : 16442
+   "A" : 15340
+   "G" : 10045
+   "C" : 9398
 ```
 
 |Nucleotides|count|
