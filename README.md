@@ -101,6 +101,6 @@ Seqences counts have been exported to dna_seq_counts.csv
 - [x] Modify sequence searching range
 - [x] Write the sequences to a CSV file
 - [x] Generate a summary about the findings
-- [] Use cmdline args to feed file
-- [] Check input file is a vaild FASTA file
-- [] Use cmdline args to define sequence lengths
+- [ ] Use cmdline args to feed file
+- [ ] Check input file is a vaild FASTA file
+- [ ] Use cmdline args to define sequence lengths
